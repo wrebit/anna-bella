@@ -1,0 +1,40 @@
+body {
+    background: #d2d2c1 url("assets/fundo.png");
+    font: 16px Arial, Helvetica, sans-serif;
+
+}
+
+.nav-bar {
+    width: 900px;
+    background-color: rgba(170, 170, 157, 0.8);
+    padding: 18px;
+    font-size: 25px;
+    text-decoration-color: #4b566a;
+
+
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: #4b566a;
+    font-size: 25px;
+    font-weight: bold
+}
+
+.nav-bar a:hover {
+    text-decoration: none;
+    color: #6d81a5;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.conteudo {
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    width: 900px;
+    background-color: rgba(255, 255, 255, 0.8);   
+}
+
+.texto {
+    margin-left: 10px;
+}
